@@ -17,3 +17,5 @@ include:
     shield: bad_wings
   - board: seeeduino_xiao_rp2040
     shield: bad_wings
+  - board: nice_nano//zmk@2
+    shield: satpad
